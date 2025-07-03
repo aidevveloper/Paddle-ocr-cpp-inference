@@ -34,7 +34,7 @@ g++ -std=c++14 -O3 main.cpp nets/nn.cpp -o ocr_inference \
 
 ## Result
 
-![title](assets/demo.png)
+![title](assets/2.PNG)
 
 ## Reference
 
